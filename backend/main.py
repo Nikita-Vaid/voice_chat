@@ -1,5 +1,5 @@
 # uvicorn main:app
-# uvicorn main:app --reload
+#   
 # source venv/Scripts/activate
 
 # Main Imports
